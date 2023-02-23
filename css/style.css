@@ -64,6 +64,14 @@ main {
      text-align: center;
 }
 
+a {
+     color: darkgrey;
+     text-decoration: none;
+}
+h4, .pageCount {
+     color: gray;
+}
+
 
 .thumbnail {
      background-image: url(../images/thumb.jpg);
