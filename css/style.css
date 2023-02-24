@@ -122,6 +122,15 @@ ul {
      margin: 0;
 }
 
+.subheading {
+     margin: 0 0 1em 0;
+     font-size: 1.15em
+}
+
+.noMargin {
+     margin: 1em 0 0.1em 0;
+}
+
 
 /* Table */
 
