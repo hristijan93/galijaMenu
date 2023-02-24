@@ -65,12 +65,10 @@ main {
 }
 
 a {
-     color: darkgrey;
+     color: white;
      text-decoration: none;
 }
-h4, .pageCount {
-     color: gray;
-}
+
 
 
 .thumbnail {
@@ -107,6 +105,7 @@ ul {
 
 .category {
      font-size: 2em;
+     text-decoration: underline;
 }
 
 .logo {
