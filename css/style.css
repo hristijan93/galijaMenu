@@ -26,6 +26,7 @@ body {
      /* max-width: 1400px; */
      margin: 0 auto;
      background-color: black;
+     max-width: 1200px;
 }
 
 
@@ -227,6 +228,16 @@ ova za media query na telefon
 
      .thumbnail {
           height: 50vh;
+     }
+
+     table, a {
+          /* margin: 0.5em auto; */
+          /* margin: 0 0 2em 0; */
+          /* width: 100%; */
+          font-size: 1.25em;
+     }
+     .category {
+          font-size: 1.5em;
      }
      
 }
